@@ -2,7 +2,16 @@
 
 CinePro is the largest, working, opensource movie and tv scraper
 
+> [!Note]
+> It is closed source until the first Release.
+
+> [!Note]
+> Planned release is sometime in july!!
+
+
 Status: `In Developement`
+
+[Documentation can be found here](//cinepro.mintlify.app)
 
 ## Join
 
