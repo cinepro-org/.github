@@ -1,18 +1,10 @@
 # CinePro 
 
-CinePro is the largest, working, opensource movie and tv scraper
+CinePro was the largest, working, opensource movie and tv scraper. Not being worked on.
 
-> [!Note]
-> It is closed source until the first Release.
+> [!Important]
+> CinePro is not recieving any updates anymore. I would recommend forking it and making your own typescript scraper. PR's will be looked at and could be possibly added. 
 
-> [!Note]
-> Planned release is sometime in july!!
-
-
-Status: `In Developement`
+Status: `Only PRs`
 
 [Documentation can be found here](//cinepro.mintlify.app)
-
-## Join
-
-If you want to join us developing this project, just open an issue in this repository and let us know why we should take you. (Backend: Node.js, Frontend: Node.js+Vite)
