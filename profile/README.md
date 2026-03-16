@@ -1,8 +1,8 @@
 <div align="center">
 
-# CinePro
+# CinePro Foundation
 
-**Open-source movie and TV show scraper ecosystem.**  
+**The largest working open-source movie and TV show scraper ecosystem.**  
 Personal use · TypeScript · OMSS-compliant
 
 [![Docs](https://img.shields.io/badge/docs-CinePro.Mintlify.App-red?style=flat-square)](https://cinepro.mintlify.app)
